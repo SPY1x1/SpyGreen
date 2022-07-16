@@ -21,13 +21,13 @@ Updated File Cloner
 💖🤞 If 64 bit phone 
 
 - cd SpyGreen
-- python spy64.py
+- python SpY64.py
 
 
 💖🤞 if 32 bit phone 
 
 - cd SpyGreen
-- python spy32.py 
+- python SpY32.py 
 
 
 # Paid
