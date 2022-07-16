@@ -14,6 +14,7 @@ Updated File Cloner
 - pip install bs4
 - pip install temcolor
 - pip install rich
+- rm -rf SpyGreen
 - git clone https://github.com/SPY1x1/SpyGreen
 
 # Run Commands 
