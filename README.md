@@ -3,7 +3,7 @@
 Updated File Cloner 
 🤞Ok id Cloner🤞
 
-# Installing Commands💖
+# Installing Commands💖✌️
 
 - pkg update 
 - pkg upgrade 
@@ -18,9 +18,7 @@ Updated File Cloner
 - rm -rf SpyGreen
 - git clone https://github.com/SPY1x1/SpyGreen
 
-# Run Commands 
-
-💖🤞 If 64 bit phone 
+# Run Commands💝✌️
 
 - cd SpyGreen
 - python SpY.py
