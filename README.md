@@ -14,6 +14,7 @@ Updated File Cloner
 - pip install bs4
 - pip install temcolor
 - pip install rich
+- cd $HOME
 - rm -rf SpyGreen
 - git clone https://github.com/SPY1x1/SpyGreen
 
@@ -22,14 +23,7 @@ Updated File Cloner
 💖🤞 If 64 bit phone 
 
 - cd SpyGreen
-- python SpY64.py
-
-
-💖🤞 if 32 bit phone 
-
-- cd SpyGreen
-- python SpY32.py 
-
+- python SpY.py
 
 # Paid
 Note : this tools os paid...
